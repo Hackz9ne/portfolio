@@ -123,7 +123,7 @@ I'm always interested in:
 - **Email:** [saikatgaming021@gmail.com](mailto:saikatgaming021@gmail.com)
 - **GitHub:** [github.com/Hackz9ne](https://github.com/Hackz9ne)
 - **Twitter/X:** [@Anubis211255](https://twitter.com/Anubis211255)
-
+- **instagram:** [anubis_2026](https://www.instagram.com/anubis_2026/)
 ---
 
 **Thank you for visiting! Feel free to explore and reach out.** 🙌
