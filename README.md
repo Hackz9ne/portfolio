@@ -1,12 +1,12 @@
 # 👋 Welcome to My Portfolio
 
-**Hackz9ne** — Full-Stack Developer | Problem Solver | Open Source Enthusiast
+**Hackz9ne** — Full-Stack Developer | AI Enthusiast | Gaming Platform Builder
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate software developer with expertise in building scalable, user-centric applications. I thrive on solving complex technical challenges and continuously learning new technologies.
+I'm a passionate full-stack developer with expertise in building scalable, user-centric applications. I thrive on solving complex technical challenges and continuously learning new technologies. Currently exploring AI and machine learning applications in gaming and finance.
 
 **[Learn more about me →](ABOUT.md)**
 
@@ -38,23 +38,25 @@ Explore my professional portfolio:
 - **Key Achievement:** Implemented sophisticated analytics and reporting system for financial insights
 - **[View Project →](PROJECTS.md)** | **[Live Demo](https://student-finance-wallet.42web.io/?i=1)**
 
-### Project 3: Coming Soon
-**Description:** Exploring innovative solutions
-- **Tech Stack:** Next-generation technologies
-- **Key Achievement:** More exciting projects in development
+### Project 3: AI & ML Exploration
+**Description:** Exploring machine learning algorithms and their applications
+- **Tech Stack:** Python, Machine Learning Libraries
+- **Key Achievement:** Building AI-powered features for next-generation projects
 - **[View Project →](PROJECTS.md)**
 
 ---
 
 ## 💻 Tech Stack at a Glance
 
-**Languages:** JavaScript • PHP • SQL • HTML5 • CSS3
+**Languages:** JavaScript • PHP • SQL • HTML5 • CSS3 • Python
 
 **Frontend:** JavaScript • Responsive Design • Interactive UI • Data Visualization
 
 **Backend:** PHP • MVC Architecture • RESTful APIs • Session Management
 
 **Databases:** MySQL • Query Optimization • Database Design
+
+**AI/ML:** Machine Learning Algorithms • AI Applications • Data Analysis
 
 **Tools:** Git • 42Web Hosting • Version Control
 
@@ -86,10 +88,10 @@ Explore my professional portfolio:
 
 ## 📈 What I'm Currently Doing
 
-- 🔨 Working on Elite Arena expansion with advanced gaming features
-- 📚 Learning AI-powered budgeting algorithms
-- 🤝 Exploring opportunities to contribute to gaming and finance open-source projects
-- 💬 Building more innovative full-stack applications
+- 🔨 Working on **Elite Arena** expansion with advanced gaming features
+- 📚 Learning **AI and machine learning algorithms**
+- 💬 Exploring **machine learning applications** in gaming and finance
+- 🤖 Building innovative features with AI integration
 
 ---
 
@@ -110,7 +112,7 @@ I'm always interested in:
 - Collaborations and partnerships
 - Technical discussions and mentoring
 - Open source contributions
-- Community engagement
+- AI and machine learning discussions
 
 **[Get in touch →](CONTACT.md)**
 
@@ -118,10 +120,9 @@ I'm always interested in:
 
 ## 📞 Quick Contact
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **Email:** [saikatgaming021@gmail.com](mailto:saikatgaming021@gmail.com)
 - **GitHub:** [github.com/Hackz9ne](https://github.com/Hackz9ne)
-- **Portfolio:** [Hackz9ne/portfolio](https://github.com/Hackz9ne/portfolio)
+- **Twitter/X:** [@Anubis211255](https://twitter.com/Anubis211255)
 
 ---
 
