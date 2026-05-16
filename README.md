@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate software developer with expertise in building scalable, user-centric applications. I thrive on solving complex technical challenges and continuously learning new technologies.
+I'm a passionate full-stack developer with expertise in building scalable, user-centric applications. I thrive on solving complex technical challenges and continuously learning new technologies. With proficiency in PHP, JavaScript, MySQL, and modern web frameworks, I create impactful solutions that make a difference.
 
 **[Learn more about me →](ABOUT.md)**
 
@@ -26,37 +26,31 @@ Explore my professional portfolio:
 
 ## 🎯 Featured Projects
 
-### Project 1: [Project Name]
-**Description:** Brief description of what the project does
-- **Tech Stack:** JavaScript, React, Node.js
-- **Key Achievement:** Impact or result
-- **[View Project →](PROJECTS.md)**
+### Project 1: Elite Arena
+**Description:** Competitive gaming platform with real-time matchmaking, tournaments, and leaderboards
+- **Tech Stack:** PHP, MySQL, JavaScript, HTML5, CSS3
+- **Key Achievement:** Full-featured gaming platform with real-time synchronization
+- **[View Project →](PROJECTS.md)** | **[Live Demo](https://elitearena.42web.io/?i=1)**
 
-### Project 2: [Project Name]
-**Description:** Brief description of what the project does
-- **Tech Stack:** Python, Django, PostgreSQL
-- **Key Achievement:** Impact or result
-- **[View Project →](PROJECTS.md)**
-
-### Project 3: [Project Name]
-**Description:** Brief description of what the project does
-- **Tech Stack:** TypeScript, Vue.js, Firebase
-- **Key Achievement:** Impact or result
-- **[View Project →](PROJECTS.md)**
+### Project 2: Student Finance Wallet
+**Description:** Personal finance management application with budgeting, analytics, and expense tracking
+- **Tech Stack:** PHP, MySQL, JavaScript, Data Visualization
+- **Key Achievement:** Comprehensive financial management solution for students
+- **[View Project →](PROJECTS.md)** | **[Live Demo](https://student-finance-wallet.42web.io/?i=1)**
 
 ---
 
 ## 💻 Tech Stack at a Glance
 
-**Languages:** JavaScript • TypeScript • Python • [Add more]
+**Languages:** JavaScript • PHP • SQL • HTML5 • CSS3
 
-**Frontend:** React • Vue.js • HTML5 • CSS3 • [Add more]
+**Frontend:** JavaScript • Responsive Design • Interactive UI • Data Visualization
 
-**Backend:** Node.js • Express • Django • [Add more]
+**Backend:** PHP • MVC Architecture • RESTful APIs • Session Management
 
-**Databases:** PostgreSQL • MongoDB • Firebase • [Add more]
+**Databases:** MySQL • Query Optimization • Database Design
 
-**Tools:** Git • Docker • AWS • [Add more]
+**Tools:** Git • 42Web Hosting • Version Control
 
 **[View detailed skills →](SKILLS.md)**
 
@@ -64,42 +58,46 @@ Explore my professional portfolio:
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hackz9ne&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hackz9ne&show_icons=true&theme=dark&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hackz9ne&layout=compact&theme=dark)
 
----
-
-## 🌟 Highlights
-
-✅ **[X]** years of professional development experience
-
-✅ Built and deployed **[X]** production applications
-
-✅ Contributed to **[X]** open-source projects
-
-✅ Mentored **[X]** junior developers
-
-✅ Active in developer communities and technical discussions
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=Hackz9ne&color=blueviolet)](https://github.com/Hackz9ne)
 
 ---
 
-## 📈 What I'm Currently Doing
+## 🌟 Key Highlights
 
-- 🔨 Working on [Current Project]
-- 📚 Learning [Current Technology/Skill]
-- 🤝 Contributing to [Open Source Project]
-- 💬 Exploring [Interest Area]
+✅ **2** Production Applications deployed and live
+
+✅ Built **Elite Arena** - Competitive gaming platform with real-time features
+
+✅ Built **Student Finance Wallet** - Comprehensive financial management system
+
+✅ **Full-Stack Development** expertise across PHP, MySQL, and JavaScript
+
+✅ Strong focus on **User Experience** and **Performance Optimization**
+
+✅ Continuous learner and **technology enthusiast**
 
 ---
 
-## 🎓 My Approach
+## 📈 Current Focus
+
+- 🔨 Enhancing Elite Arena with advanced gaming features
+- 📚 Exploring modern JavaScript frameworks and TypeScript
+- 🤝 Building scalable web applications
+- 💬 Contributing to developer community
+
+---
+
+## 🎓 My Development Philosophy
 
 1. **Write Clean Code** — Maintainability and clarity are paramount
-2. **Test Thoroughly** — Quality assurance at every step
-3. **Communicate Well** — Clear documentation and collaboration
-4. **Stay Current** — Continuous learning and improvement
-5. **Think Creatively** — Finding innovative solutions
+2. **Optimize Performance** — Efficient algorithms and database queries
+3. **User-Centric Design** — Intuitive interfaces and great UX
+4. **Continuous Learning** — Stay updated with industry trends
+5. **Deliver Quality** — Thorough testing and robust solutions
 
 ---
 
@@ -109,7 +107,7 @@ I'm always interested in:
 - Exciting project opportunities
 - Collaborations and partnerships
 - Technical discussions and mentoring
-- Open source contributions
+- Building innovative solutions
 - Community engagement
 
 **[Get in touch →](CONTACT.md)**
@@ -119,12 +117,26 @@ I'm always interested in:
 ## 📞 Quick Contact
 
 - **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 - **GitHub:** [github.com/Hackz9ne](https://github.com/Hackz9ne)
-- **Twitter:** [@your-handle](https://twitter.com/your-handle)
+- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **Portfolio:** [github.com/Hackz9ne/portfolio](https://github.com/Hackz9ne/portfolio)
 
 ---
 
-**Thank you for visiting! Feel free to explore and reach out.** 🙌
+## 📂 Repository Structure
+
+```
+portfolio/
+├── README.md          # You are here!
+├── PROJECTS.md        # Detailed project showcase
+├── SKILLS.md          # Technical expertise
+├── EXPERIENCE.md      # Professional background
+├── ABOUT.md           # Personal story
+└── CONTACT.md         # Get in touch
+```
+
+---
+
+**Thank you for visiting! Feel free to explore my work and reach out.** 🙌
 
 *Last updated: May 2026*
