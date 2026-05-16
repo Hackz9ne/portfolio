@@ -6,18 +6,13 @@ I'd love to hear from you! Whether you're interested in collaborating on a proje
 
 ## 📧 Direct Contact
 
-**Email:** [your.email@example.com](mailto:your.email@example.com)
+**Email:** [saikatgaming021@gmail.com](mailto:saikatgaming021@gmail.com)
 
 I typically respond to emails within 24-48 hours.
 
 ---
 
 ## 🌐 Social & Professional Networks
-
-### LinkedIn
-**Professional Network & Career Updates**
-- [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- Connect with me for professional opportunities and industry insights
 
 ### GitHub
 **Code & Open Source**
@@ -27,13 +22,14 @@ I typically respond to emails within 24-48 hours.
 
 ### Twitter/X
 **Tech Thoughts & Updates**
-- [@your-handle](https://twitter.com/your-handle)
+- [@Anubis211255](https://twitter.com/Anubis211255)
 - Share tech insights and industry discussions
+- Follow for AI, gaming, and development updates
 
-### Portfolio Website
-**Full Portfolio Site**
-- [your-website.com](https://your-website.com)
-- Interactive portfolio and blog
+### Email
+**Direct Communication**
+- saikatgaming021@gmail.com
+- Best for detailed discussions and collaborations
 
 ---
 
@@ -43,7 +39,7 @@ I typically respond to emails within 24-48 hours.
 - Full-time positions
 - Contract/Freelance work
 - Startup ventures
-- Consulting engagements
+- Gaming projects
 
 ✅ **Collaborations**
 - Open source projects
@@ -58,14 +54,14 @@ I typically respond to emails within 24-48 hours.
 - Career advice
 
 ✅ **Technical Discussions**
+- AI & Machine Learning
 - Architecture and design patterns
 - Best practices
-- Technology recommendations
-- Problem-solving approaches
+- Gaming platform development
 
 ✅ **Community Engagement**
 - Speaking opportunities
-- Podcast interviews
+- Tech discussions
 - Blog collaborations
 - Event participation
 
@@ -74,63 +70,64 @@ I typically respond to emails within 24-48 hours.
 ## 🤝 How to Reach Me
 
 ### For Business Inquiries
-**Best Method:** Email or LinkedIn
-- Use email for formal opportunities
-- Connect on LinkedIn for professional networking
+**Best Method:** Email
+- Email me at saikatgaming021@gmail.com
 - Include relevant details about your inquiry
+- Response within 24-48 hours
 
 ### For Technical Discussion
-**Best Method:** GitHub issues, Twitter/X, or Email
-- Comment on my repositories
-- Start a discussion on GitHub
-- Tweet at me for quick tech thoughts
+**Best Method:** Twitter/X or Email
+- Tweet me @Anubis211255 for quick tech thoughts
+- Email for detailed technical discussions
+- Start conversations on GitHub
 
 ### For Collaboration
 **Best Method:** Email + GitHub
 - Email with project details
 - GitHub for code collaboration
-- Schedule a call to discuss
+- Direct conversation for specifics
 
 ---
 
-## 📋 Resume & CV
+## 🎓 Current Focus Areas
 
-- **Resume:** [Download PDF](https://example.com/resume.pdf)
-- **CV:** [Download PDF](https://example.com/cv.pdf)
+**AI & Machine Learning**
+- Exploring machine learning algorithms
+- Interested in AI applications for gaming and finance
+- Learning advanced ML concepts
+
+**Game Development**
+- Expanding Elite Arena platform
+- Real-time gaming feature development
+- Tournament architecture optimization
+
+**Full-Stack Development**
+- Building scalable applications
+- Modern web technologies
+- Performance optimization
 
 ---
 
 ## 🗓️ Availability
 
-**Current Status:** [Available/Open to opportunities/Actively seeking]
+**Current Status:** Open to opportunities and collaborations
 
 **Response Time:**
 - Email: 24-48 hours
-- LinkedIn: 1-2 days
+- Twitter/X: 1-2 days
 - GitHub: 1-3 days
-- Twitter: Varies
 
-**Preferred Communication:** Email and LinkedIn
+**Preferred Communication:** Email and Twitter/X
 
 ---
 
 ## 🎤 Speaking & Content
 
 Interested in having me:
-- **Speak at your event?** Share event details via email
-- **Contribute to your blog?** Discuss collaboration opportunities
-- **Participate in a podcast?** Let me know the topic and audience
-- **Host a workshop?** Reach out with details
-
----
-
-## 📍 Location
-
-**Based in:** [Your City/Country]
-
-**Timezone:** [Your Timezone]
-
-**Willing to:** Relocate / Remote work / Flexible arrangement
+- **Discuss tech topics?** Reach out via email or Twitter
+- **Collaborate on projects?** Let's connect on GitHub
+- **Share knowledge?** Open to technical discussions
+- **Contribute ideas?** Happy to brainstorm together
 
 ---
 
@@ -146,7 +143,13 @@ Interested in having me:
 
 ## 💌 Looking Forward
 
-I'm excited about the opportunity to connect, collaborate, and create something amazing together. Don't hesitate to reach out—I'm always happy to chat!
+I'm excited about the opportunity to connect, collaborate, and create something amazing together. Whether you're interested in gaming platforms, AI applications, or innovative web development, don't hesitate to reach out—I'm always happy to chat!
+
+**Feel free to contact me anytime!** 🚀
+
+- 📧 Email: saikatgaming021@gmail.com
+- 🐦 Twitter: @Anubis211255
+- 🐙 GitHub: github.com/Hackz9ne
 
 **Thank you for visiting my portfolio. I look forward to connecting with you!** 🙌
 
