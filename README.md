@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer with expertise in building scalable, user-centric applications. I thrive on solving complex technical challenges and continuously learning new technologies. With proficiency in PHP, JavaScript, MySQL, and modern web frameworks, I create impactful solutions that make a difference.
+I'm a passionate software developer with expertise in building scalable, user-centric applications. I thrive on solving complex technical challenges and continuously learning new technologies.
 
 **[Learn more about me →](ABOUT.md)**
 
@@ -26,17 +26,23 @@ Explore my professional portfolio:
 
 ## 🎯 Featured Projects
 
-### Project 1: Elite Arena
-**Description:** Competitive gaming platform with real-time matchmaking, tournaments, and leaderboards
+### Project 1: Elite Arena - Competitive Gaming Platform
+**Description:** Real-time gaming platform with tournaments, matchmaking, and leaderboards
 - **Tech Stack:** PHP, MySQL, JavaScript, HTML5, CSS3
-- **Key Achievement:** Full-featured gaming platform with real-time synchronization
+- **Key Achievement:** Successfully architected full-featured gaming platform with real-time data synchronization
 - **[View Project →](PROJECTS.md)** | **[Live Demo](https://elitearena.42web.io/?i=1)**
 
-### Project 2: Student Finance Wallet
-**Description:** Personal finance management application with budgeting, analytics, and expense tracking
+### Project 2: Student Finance Wallet - Personal Finance Management
+**Description:** Comprehensive financial management app for expense tracking and budgeting
 - **Tech Stack:** PHP, MySQL, JavaScript, Data Visualization
-- **Key Achievement:** Comprehensive financial management solution for students
+- **Key Achievement:** Implemented sophisticated analytics and reporting system for financial insights
 - **[View Project →](PROJECTS.md)** | **[Live Demo](https://student-finance-wallet.42web.io/?i=1)**
+
+### Project 3: Coming Soon
+**Description:** Exploring innovative solutions
+- **Tech Stack:** Next-generation technologies
+- **Key Achievement:** More exciting projects in development
+- **[View Project →](PROJECTS.md)**
 
 ---
 
@@ -58,46 +64,42 @@ Explore my professional portfolio:
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hackz9ne&show_icons=true&theme=dark&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hackz9ne&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hackz9ne&layout=compact&theme=dark)
 
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=Hackz9ne&color=blueviolet)](https://github.com/Hackz9ne)
+---
+
+## 🌟 Highlights
+
+✅ **1** year of professional development experience
+
+✅ Built and deployed **2** production applications
+
+✅ Contributed to **0** open-source projects (actively exploring opportunities)
+
+✅ Mentored **13** junior developers
+
+✅ Active in developer communities and technical discussions
 
 ---
 
-## 🌟 Key Highlights
+## 📈 What I'm Currently Doing
 
-✅ **2** Production Applications deployed and live
-
-✅ Built **Elite Arena** - Competitive gaming platform with real-time features
-
-✅ Built **Student Finance Wallet** - Comprehensive financial management system
-
-✅ **Full-Stack Development** expertise across PHP, MySQL, and JavaScript
-
-✅ Strong focus on **User Experience** and **Performance Optimization**
-
-✅ Continuous learner and **technology enthusiast**
+- 🔨 Working on Elite Arena expansion with advanced gaming features
+- 📚 Learning AI-powered budgeting algorithms
+- 🤝 Exploring opportunities to contribute to gaming and finance open-source projects
+- 💬 Building more innovative full-stack applications
 
 ---
 
-## 📈 Current Focus
-
-- 🔨 Enhancing Elite Arena with advanced gaming features
-- 📚 Exploring modern JavaScript frameworks and TypeScript
-- 🤝 Building scalable web applications
-- 💬 Contributing to developer community
-
----
-
-## 🎓 My Development Philosophy
+## 🎓 My Approach
 
 1. **Write Clean Code** — Maintainability and clarity are paramount
-2. **Optimize Performance** — Efficient algorithms and database queries
-3. **User-Centric Design** — Intuitive interfaces and great UX
-4. **Continuous Learning** — Stay updated with industry trends
-5. **Deliver Quality** — Thorough testing and robust solutions
+2. **Test Thoroughly** — Quality assurance at every step
+3. **Communicate Well** — Clear documentation and collaboration
+4. **Stay Current** — Continuous learning and improvement
+5. **Think Creatively** — Finding innovative solutions
 
 ---
 
@@ -107,7 +109,7 @@ I'm always interested in:
 - Exciting project opportunities
 - Collaborations and partnerships
 - Technical discussions and mentoring
-- Building innovative solutions
+- Open source contributions
 - Community engagement
 
 **[Get in touch →](CONTACT.md)**
@@ -117,26 +119,12 @@ I'm always interested in:
 ## 📞 Quick Contact
 
 - **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **GitHub:** [github.com/Hackz9ne](https://github.com/Hackz9ne)
 - **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Portfolio:** [github.com/Hackz9ne/portfolio](https://github.com/Hackz9ne/portfolio)
+- **GitHub:** [github.com/Hackz9ne](https://github.com/Hackz9ne)
+- **Portfolio:** [Hackz9ne/portfolio](https://github.com/Hackz9ne/portfolio)
 
 ---
 
-## 📂 Repository Structure
-
-```
-portfolio/
-├── README.md          # You are here!
-├── PROJECTS.md        # Detailed project showcase
-├── SKILLS.md          # Technical expertise
-├── EXPERIENCE.md      # Professional background
-├── ABOUT.md           # Personal story
-└── CONTACT.md         # Get in touch
-```
-
----
-
-**Thank you for visiting! Feel free to explore my work and reach out.** 🙌
+**Thank you for visiting! Feel free to explore and reach out.** 🙌
 
 *Last updated: May 2026*
